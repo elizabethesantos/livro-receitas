@@ -1,4 +1,4 @@
-# Stogonoff de Frango :chicken
+# Stogonoff de Frango :chicken:
 
 ### Ingredientes
  - 3 peitos de frango cortados em cubos
